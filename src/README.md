@@ -1,4 +1,3 @@
-// filepath: c:\Abhay\PES\Workshop\README_server.md
 # src/server.py — Deep Dive (MCP over stdio)
 
 Purpose
